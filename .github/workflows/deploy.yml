@@ -8,7 +8,7 @@ on:
       server_port:
         description: 'Application port'
         required: false
-        default: '3100'
+        default: '3300'
       deployment_branch:
         description: 'Override deployment branch (optional)'
         required: false
