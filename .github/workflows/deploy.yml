@@ -22,8 +22,8 @@ jobs:
   build-and-deploy:
     runs-on: self-hosted
     env:
-      APP_CONTAINER_NAME: Team3-Bootcamp-App-banking
-      APP_IMAGE_NAME: Team3-Bootcamp-App-banking
+      APP_CONTAINER_NAME: team3-bootcamp-app-banking
+      APP_IMAGE_NAME: team3-bootcamp-app-banking
     
     steps:
     - name: Checkout code
